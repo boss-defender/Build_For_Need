@@ -75,9 +75,4 @@ To launch the development suite on your local compiler:
 
 ---
 
-## 🧪 Testing Credentials
-The platform is seeded pre-loaded with sample data to simulate a bustling developer neighborhood:
-
-- **Sarah Jenkins** (Problem Sharer): `sarah@gmail.com`
-- **Alex Rivera** (Developer Enthusiast): `alex@dev.com`
 
